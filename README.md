@@ -1,2 +1,3 @@
 # GitUitleg
-Uitleg over Git
+Uitleg over Git <br>
+Snappen jullie het al?
